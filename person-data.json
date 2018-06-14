@@ -157,6 +157,38 @@
 { "products_id": "74", "product_name": "Body Lotion","product_image_url": "images/common.jpg", "product_quantity": "1 Pcs","product_price": "50" },
 { "products_id": "75", "product_name": "Lip Balm","product_image_url": "images/common.jpg", "product_quantity": "1 Pcs","product_price": "50" }
   ]
-	  }
+	  },
+	   { "person":"2", 
+   "snacks": [
+	   { "products_id": "1", "product_name": "Lays ","product_image_url": "images/common.jpg", "product_quantity": "1 Pck","product_price": "50" },
+{ "products_id": "2", "product_name": "Kurkure","product_image_url": "images/common.jpg", "product_quantity": "1 Pck","product_price": "50" },
+{ "products_id": "3", "product_name": "Bhujia","product_image_url": "images/common.jpg", "product_quantity": "1 Pck","product_price": "50" },
+{ "products_id": "4", "product_name": "Masala Peanuts","product_image_url": "images/common.jpg", "product_quantity": "1 Pck","product_price": "50" },
+{ "products_id": "5", "product_name": "Pepsi","product_image_url": "images/common.jpg", "product_quantity": "1 Lt","product_price": "50" },
+{ "products_id": "6", "product_name": "Sprite","product_image_url": "images/common.jpg", "product_quantity": "1 Lt","product_price": "50" },
+{ "products_id": "7", "product_name": "Mirinda","product_image_url": "images/common.jpg", "product_quantity": "1 Lt","product_price": "50" },
+{ "products_id": "8", "product_name": "Pop Corn","product_image_url": "images/common.jpg", "product_quantity": "5 Pck","product_price": "50" },
+{ "products_id": "9", "product_name": "Soan Papdi","product_image_url": "images/common.jpg", "product_quantity": "1 Pck","product_price": "50" },
+{ "products_id": "10", "product_name": "Rasgulla","product_image_url": "images/common.jpg", "product_quantity": "1 Pck","product_price": "50" },
+{ "products_id": "11", "product_name": "Gulab Jamun","product_image_url": "images/common.jpg", "product_quantity": "1 Pck","product_price": "50" },
+{ "products_id": "12", "product_name": "Red Bull","product_image_url": "images/common.jpg", "product_quantity": "5 Pcs","product_price": "50" },
+{ "products_id": "13", "product_name": "Dry Fruits Mix","product_image_url": "images/common.jpg", "product_quantity": "500 Gms","product_price": "50" }
 ]
-}
+},
+	 { "person":"2", 
+   "bathcleaners": [   { "products_id": "1", "product_name": "Tooth Paste","product_image_url": "images/common.jpg", "product_quantity": "1 Kg","product_price": "50" },
+{ "products_id": "2", "product_name": "Bath Soap","product_image_url": "images/common.jpg", "product_quantity": "4 Pcs","product_price": "50" },
+{ "products_id": "3", "product_name": "Face Wash","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "4", "product_name": "Deodrant","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "5", "product_name": "Detergent Powder","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "6", "product_name": "Detergent Bar","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "7", "product_name": "Shampoo","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "8", "product_name": "Hair Oil","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "9", "product_name": "Harpic Floor Cleaner","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "10", "product_name": "Harpic Toilet Cleaner","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "11", "product_name": "Odonil Freshner","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "12", "product_name": "Body Lotion","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "13", "product_name": "Lip Balm","product_image_url": "images/common.jpg", "product_quantity": "2 Pcs","product_price": "50" },
+
+]}
+	  ]}
