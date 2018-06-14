@@ -1,8 +1,7 @@
 {
    "products": [
 { "person":"2", 
-   "montlytwo": [
- 
+   "montlytwo": [ 
 { "products_id": "1", "product_name": "Mustard Cooking Oil","product_image_url": "images/common.jpg", "product_quantity": "2 Lt","product_price": "117" },
 { "products_id": "2", "product_name": "Refined Cooking Oil","product_image_url": "images/common.jpg", "product_quantity": "2 Lt","product_price": "100" },
 { "products_id": "3", "product_name": "Mustard Seeds","product_image_url": "images/common.jpg", "product_quantity": "500 gms","product_price": "70" },
