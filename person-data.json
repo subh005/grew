@@ -2,7 +2,7 @@
    "products": [
 	   {
 	    "person":"2",   
-	    "montly-two": [
+	    "montlytwo": [
 { "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
 { "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
 { "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
@@ -12,7 +12,7 @@
 	   },
 	{
 	    "person":"4",   
-	    "montly-four": [
+	    "montlyfour": [
 { "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
 { "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
 { "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
