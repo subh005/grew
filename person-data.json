@@ -1,25 +1,11 @@
 {
    "products": [
-       {
-           "products_id": "1",
-           "product_name": "Rice",
-           "product_image_url": "images/common.jpg",
-           "product_quantity": "5 Kg",
-           "product_price": "Rs 500"
-       },
-      {
-           "products_id": "2",
-           "product_name": "Aata",
-           "product_image_url": "images/common.jpg",
-           "product_quantity": "10 Kg",
-           "product_price": "Rs 500"
-       },
-       {
-           "products_id": "3",
-           "product_name": "Toor Dal",
-           "product_image_url": "images/common.jpg",
-           "product_quantity": "1 Kg",
-           "product_price": "Rs 100"
-       }
+{ "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
+{ "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
+{ "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
+{ "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" },
+{ "products_id": "1", "product_name": "Rice","product_image_url": "images/common.jpg", "product_quantity": "5 Kg","product_price": "500" }
    ]
 }
+
+					
