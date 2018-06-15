@@ -2,8 +2,6 @@
    "products": [
 { "person":"2", 
    "montlytwo": [ 
-
-Master 2
 { "products_id": "1", "product_name": "Mustard Cooking Oil","product_image_url": "https://rukminim1.flixcart.com/image/832/832/j4hc5u80/edible-oil/e/t/c/1-na-pouch-sunflower-oil-fortune-original-imaevduqzy2nusae.jpeg?q=70", "product_quantity": "1 Lt",”product_price”: "117" },
 { "products_id": "2", "product_name": "Refined Cooking Oil","product_image_url": "https://cdn.grofers.com/app/images/products/full_screen/pro_174727.jpg", "product_quantity": "1 Lt",”product_price”: "100" },
 { "products_id": "3", "product_name": "Mustard Seeds","product_image_url": "https://rukminim1.flixcart.com/image/832/832/jhjg13k0/spice-masala/8/n/j/50-mustard-rai-small-pouch-flipkart-supermart-select-whole-original-imaff6u3bh3s9vzd.jpeg?q=70", "product_quantity": "250 gms",”product_price”: "70" },
