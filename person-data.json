@@ -1915,97 +1915,21 @@
 		},
 		{
 			"person": "2",
-			"bathcleaning": [{
-					"products_id": "1",
-					"product_name": "Tooth Paste",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "1 Kg",
-					"product_price": "50"
-				},
-				{
-					"products_id": "2",
-					"product_name": "Bath Soap",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "4 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "3",
-					"product_name": "Face Wash",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "4",
-					"product_name": "Deodrant",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "5",
-					"product_name": "Detergent Powder",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "6",
-					"product_name": "Detergent Bar",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "7",
-					"product_name": "Shampoo",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "8",
-					"product_name": "Hair Oil",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "9",
-					"product_name": "Harpic Floor Cleaner",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "10",
-					"product_name": "Harpic Toilet Cleaner",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "11",
-					"product_name": "Odonil Freshner",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "12",
-					"product_name": "Body Lotion",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				},
-				{
-					"products_id": "13",
-					"product_name": "Lip Balm",
-					"product_image_url": "images/common.jpg",
-					"product_quantity": "2 Pcs",
-					"product_price": "50"
-				}
+			"bathcleaning": [
+{ "products_id": "63", "product_name": "Tooth Paste","product_image_url": "https://rukminim1.flixcart.com/image/832/832/j4d1ua80/toothpaste/u/g/n/300-red-dabur-original-imaeva7eyhdtzhkn.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "64", "product_name": "Bath Soap","product_image_url": "https://rukminim1.flixcart.com/image/832/832/ji95yfk0/soap/g/7/e/4-500-pure-gentle-bathing-bar-pears-original-imaf632j6zk6nygy.jpeg?q=70", "product_quantity": "2 Pcs","product_price": "50" },
+{ "products_id": "65", "product_name": "Face Wash","product_image_url": "https://rukminim1.flixcart.com/image/832/832/face-wash/a/5/x/himalaya-300-purifying-neem-face-wash-original-imaeqfgyn9yj7uza.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "66", "product_name": "Deodrant","product_image_url": "https://rukminim1.flixcart.com/image/832/832/jesunbk0/deodorant/2/4/c/150-dark-temptation-deodorant-spray-axe-men-original-imaezphezxmn3b7e.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "67", "product_name": "Detergent Powder","product_image_url": "https://rukminim1.flixcart.com/image/832/832/j3xbzww0/laundry-detergent/f/e/s/1-easy-wash-surf-excel-original-imaeuyy7v8hb6qax.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "68", "product_name": "Detergent Bar","product_image_url": "https://rukminim1.flixcart.com/image/832/832/jepzrm80/dish-washing-bar/m/a/z/big-4-1-rin-original-imaf3chzhurskksz.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "69", "product_name": "Shampoo","product_image_url": "https://rukminim1.flixcart.com/image/832/832/jb6tksw0/shampoo/p/h/z/650-hair-fall-rescue-shampoo-dove-original-imafyhggzxucvjad.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "70", "product_name": "Hair Oil","product_image_url": "https://rukminim1.flixcart.com/image/832/832/j4rc8sw0/hair-oil/q/e/z/300-advansed-coconut-hair-oil-parachute-original-imaeux4adaghjvr8.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "71", "product_name": "Harpic Floor Cleaner","product_image_url": "https://rukminim1.flixcart.com/image/832/832/j3t1ocw0/bathroom-floor-cleaner/r/r/j/lemon-500-harpic-bathroom-cleaner-harpic-original-imaeuuxfxpfzgxjc.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "72", "product_name": "Harpic Toilet Cleaner","product_image_url": "https://rukminim1.flixcart.com/image/832/832/jbb3wcw0/toilet-cleaner/m/r/w/rose-1-power-plus-harpic-original-imafypfn2gnzqzf7.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "73", "product_name": "Odonil Freshner","product_image_url": "https://rukminim1.flixcart.com/image/832/832/j3vwk280/air-freshener/v/v/g/12-liquid-1-touch-air-freshner-combo-odonil-original-imaeux9hxdgmtpdt.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "74", "product_name": "Body Lotion","product_image_url": "https://rukminim1.flixcart.com/image/832/832/jesunbk0/fairness/w/g/f/80-advanced-multi-vitamin-fairness-cream-fair-lovely-original-imaez6hurrqq9xgz.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" },
+{ "products_id": "75", "product_name": "Lip Balm","product_image_url": "https://rukminim1.flixcart.com/image/832/832/jepzrm80/lip-balm/n/t/x/10-lip-balm-himalaya-original-imaf3chzczfzf8sr.jpeg?q=70", "product_quantity": "1 Pcs","product_price": "50" }
+
 			]
 		}
 
